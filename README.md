@@ -47,5 +47,4 @@ The project uses the following tools and libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ml-supervised-unsupervised.git
-   cd ml-supervised-unsupervised
+   git clone https://github.com/Valentin-Meltz/Intro_to_Machine_Learning-Project.git
